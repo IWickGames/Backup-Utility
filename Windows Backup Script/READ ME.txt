@@ -1,0 +1,16 @@
+Windows Backup Script
+Created by @IWickGames#7827
+      github.com/iwickgames
+
+1.) Enter the name of the backup
+2.) Enter the location you want the backup to be stored
+3.) Enter the directory you want to backup
+4.) Click the Backup Button
+
+When you are done filling this out it should look like this
+
+Backup Name: Backup#1
+Backup Location: D:\MyBackups
+Directory to Backup: C:\Users
+
+Then just let the script run and wait for it to say Backup Complete!
